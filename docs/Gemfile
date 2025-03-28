@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+gem "jekyll", ">= 3.1.0" # Or the latest version of Jekyll you want to use.
+gem "github-pages", group: :jekyll_plugins
+gem "kramdown", ">= 1.3"
