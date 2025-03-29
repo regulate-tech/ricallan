@@ -1,4 +1,4 @@
-# Contact #
+## Contact ##
 
 For anything to do with Richard’s Parliamentary work, you can send messages to his official email address – allanr [AT] parliament.uk.
 
