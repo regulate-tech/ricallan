@@ -5,6 +5,7 @@ plugins:
   - jekyll-remote-theme
 # remote_theme: pages-themes/tactile
 permalink: /posts/:year/:month/:day/:title/
+baseurl: "/ricallan/docs"
 
 # Hide GitHub repository information
 github_username: # leave blank
