@@ -3,7 +3,7 @@ description: Information about Richard Allan
 repository: regulate-tech/ricallan
 plugins:
   - jekyll-remote-theme
-remote_theme: pages-themes/tactile
+# remote_theme: pages-themes/tactile
 permalink: /posts/:year/:month/:day/:title/
 
 # Hide GitHub repository information
