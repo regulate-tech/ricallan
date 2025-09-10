@@ -5,7 +5,11 @@ plugins:
   - jekyll-remote-theme
 # remote_theme: pages-themes/tactile
 permalink: /posts/:year/:month/:day/:title/
-baseurl: "/ricallan/docs"
+
+# URL settings for GitHub Pages testing
+# Needs editing when moving to external domain
+baseurl: "/ricallan"  # Your repository name with leading slash
+url: "https://regulate-tech.github.io"  # Your GitHub Pages URL
 
 # Hide GitHub repository information
 github_username: # leave blank
