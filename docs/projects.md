@@ -6,5 +6,5 @@ You can find out about some of the projects Richard has worked on at these sites
 
 [NHSTech](https://nhstech.uk/) - a collection of mini-projects related to health technology
 
-[Regulate.tech](https://regulate.tech) - a podcast that Richard worked on with Nicklas Berild Lundblad.
+[Regulate.tech](https://regulatetech.podbean.com) - a podcast that Richard worked on with Nicklas Berild Lundblad.
 
