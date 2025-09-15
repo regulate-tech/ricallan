@@ -1,4 +1,4 @@
-Richard Allan has been a non-executive Director of the UK's communications regulator. Ofcom, since November 2024.
+Richard Allan has been a non-executive Board member at the UK's communications regulator, [Ofcom](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-board), since November 2024.
 
 He has spent half his career working in the public sector (healthcare and politics), and the other half working in the private sector (internet hardware and social media).
 
@@ -14,4 +14,4 @@ Richard has been a member of the UK Parliament’s unelected second chamber, the
 
 He sits as a politically independent member after leaving the Liberal Democrat group at the start of October 2024.
 
-Richard was appointed to a panel to advise the UK Government on their long-term digital strategy in October 2024.
+Richard was appointed to a [panel](https://www.gov.uk/government/news/tech-experts-to-shape-government-digital-vision-to-drive-innovation-and-boost-public-services) to advise the UK Government on their long-term digital strategy in October 2024.
