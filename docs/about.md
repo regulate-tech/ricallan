@@ -6,7 +6,7 @@ Before technology, Richard studied archaeology and worked as an excavator on anc
 
 He has an MSc in Information Technology and spent several years building information systems for the UK’s National Health Service.
 
-Richard began his political career in 1993 as a local councillor in Bath and was elected to the UK Parliament in 1997 as MP for [Sheffield Hallam](https://en.wikipedia.org/wiki/Sheffield_Hallam_(UK_Parliament_constituency) where he was re-elected in 2001.
+Richard began his political career in 1993 as a local councillor in Bath and was elected to the UK Parliament in 1997 as MP for [Sheffield Hallam](https://en.wikipedia.org/wiki/Sheffield_Hallam_(UK_Parliament_constituency)) where he was re-elected in 2001.
 
 He stepped down from Parliament in 2005 and moved to the technology sector, working at Cisco Systems (2005-9) and Facebook Inc (2009-2019).
 
