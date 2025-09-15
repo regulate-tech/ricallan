@@ -15,3 +15,7 @@ Richard has been a member of the UK Parliament’s unelected second chamber, the
 He sits as a politically independent member after leaving the Liberal Democrat group at the start of October 2024.
 
 Richard was appointed to a [panel](https://www.gov.uk/government/news/tech-experts-to-shape-government-digital-vision-to-drive-innovation-and-boost-public-services) to advise the UK Government on their long-term digital strategy in October 2024.
+
+---
+
+Photos - if you need a picture of Richard for an event etc, you can find various formats of his [official portrait on the Parliamentary website](https://members.parliament.uk/member/397/portrait).
